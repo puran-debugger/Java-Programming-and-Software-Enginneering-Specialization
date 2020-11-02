@@ -11,13 +11,13 @@ Gain the foundational skills a software engineer needs to solve real-world probl
 #### Week 4: MiniProject: Image Filters on the Web
 
 ## Course 2: Java Programming: Solving Problems with Software
-#### Fundamental Java Syntax and Semantics
+#### Week 1: Fundamental Java Syntax and Semantics
 
-#### Strings in Java
+#### Week 2: Strings in Java
 
-#### CSV Files and Basic Statistics in Java
+#### Week 3: CSV Files and Basic Statistics in Java
 
-#### MiniProject: Baby Names
+#### Week 4: MiniProject: Baby Names
 
 ## Course 3: Java Programming: Arrays, Lists, and Structured Data
 #### Week 1: Crytography: Keeping Information Secret
